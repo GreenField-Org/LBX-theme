@@ -21,7 +21,7 @@
 			<!-- wp:button {"fontSize":"small"} -->
 			<div class="wp-block-button has-custom-font-size has-small-font-size">
 				<a class="wp-block-button__link wp-element-button">
-				<?php echo esc_html_x( 'Get In Touch', 'sample content for call to action button', 'lbx-theme' ); ?>
+				<?php echo esc_html_x( 'Contact Us Today', 'sample content for call to action button', 'lbx-theme' ); ?>
 				</a>
 			</div>
 			<!-- /wp:button -->
