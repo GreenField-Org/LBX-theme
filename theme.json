@@ -35,22 +35,22 @@
 					"slug": "base"
 				},
 				{
-					"color": "#000000",
+					"color": "#061A40",
 					"name": "Contrast",
 					"slug": "contrast"
 				},
 				{
-					"color": "#9DFF20",
+					"color": "#0353A4",
 					"name": "Primary",
 					"slug": "primary"
 				},
 				{
-					"color": "#345C00",
+					"color": "#006DAA",
 					"name": "Secondary",
 					"slug": "secondary"
 				},
 				{
-					"color": "#F6F6F6",
+					"color": "#003559",
 					"name": "Tertiary",
 					"slug": "tertiary"
 				}
